@@ -1,3 +1,1 @@
-# snmptester
-## simple toolbox for security scans
-use with care, accept the law !
+# snmptesterShellscript to find open snmp deamons## simple toolbox for security scansuse with care, accept the law !###  #misc Foldercontains simple scripts for metworking ExperimentsInformation about me and trainings: http://www.itconsulting-wolfinger.de
