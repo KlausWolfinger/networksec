@@ -1,4 +1,10 @@
+
 from scapy.all import *
+
+# this is for education purpose only
+# my trainings are delievered worldwide
+# www.itconsulting-wolfinger.de
+
 
 A = '192.168.178.991' # spoofed source IP address
 B = '192.168.178.22' # destination IP address
