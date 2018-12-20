@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# kdw
 # some vars
 #
 oid_1="iso.3.6.1.2.1.1.1.0" 
