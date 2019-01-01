@@ -2,7 +2,7 @@
 Shellscript to find open snmp deamons
 
 # icmpchat.pl
-Simple perlscript to dominstrate steganographie via ICMP
+Simple perlscript to demonstrate steganographie via ICMP
 
 ## simple toolbox for security scans
 use with care, accept the law !
