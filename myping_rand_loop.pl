@@ -1,6 +1,6 @@
 #!/usr/bin/perl
-# kdw hackerworkshop 2004
-
+# kdw 2018 5199 Kurs
+# a really very simple tool
 # have fun, klaus
 
 use Net::RawIP;
