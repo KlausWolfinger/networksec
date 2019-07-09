@@ -3,7 +3,7 @@
 # use with care
 # 
 
-require 'getopts.pl'
+require 'getopts.pl';
 
 use Net::RawIP;
 
