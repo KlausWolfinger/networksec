@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 # *******  der LAND-ATTACK  **************
 # use with care
-# 
+# apt-get install libperl4-corelibs-perl
 
 require 'getopts.pl';
 
