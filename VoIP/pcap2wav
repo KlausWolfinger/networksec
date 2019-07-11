@@ -43,6 +43,9 @@ Supported options:
  -z  Perform "clean and zip" - After converting to wav files the program will "clean up"
                                by putting the wav files into a .tgz file and then removing
                                the .wav and .<codec> files from the disk.
+							   
+DO NOT RUN THE PROGRAM AS ROOT !!!
+
 EOF
 
 exit
